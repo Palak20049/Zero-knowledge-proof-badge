@@ -60,7 +60,6 @@ Deployed Address: 0xD7ACd2a9FD159E69Bb102A1ca21C9a3e3A5F771B
 We welcome contributions! Fork the repo, suggest improvements, and submit pull requests.
 
 ✨ What's New?
-
 ✅ AI-Powered Identity Verification (Deepfake detection, biometric checks)
 ✅ AI-Based Fraud & Anomaly Detection (Sybil attack prevention, behavioral analysis)
 ✅ Automated AI-Driven Credential Validation
