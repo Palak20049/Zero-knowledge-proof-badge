@@ -1,5 +1,3 @@
-# Zero-knowledge-proof-badge
-
 # 🛡️ Zero-Knowledge Proof Badge
 
 ## 📌 Project Description
@@ -61,10 +59,3 @@ We welcome contributions! Fork the repo, suggest improvements, and submit pull r
 ✅ AI-Based Fraud & Anomaly Detection (Sybil attack prevention, behavioral analysis)
 ✅ Automated AI-Driven Credential Validation
 ✅ Expanded Use Cases (Web3 Identity, KYC, DAO Access Control, etc.)
-
-    function verifyUser(address user) public {
-        verifiedUsers[user] = true;
-    }
-}
-```
-
